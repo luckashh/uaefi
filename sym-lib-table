@@ -25,4 +25,6 @@
   (lib (name "MPX-4_MAP")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/MPX-4_MAP.kicad_sym")(options "")(descr ""))
   (lib (name "JDY-33")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/JDY-33.kicad_sym")(options "")(descr ""))
   (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "TE_368255-2")(type "KiCad")(uri "${KIPRJMOD}/../ext/kicad6-libraries/TE_368255-2.kicad_sym")(options "")(descr ""))
+
 )

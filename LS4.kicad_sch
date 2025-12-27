@@ -683,6 +683,7 @@
 	(hierarchical_label "IN1"
 		(shape input)
 		(at 209.55 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -694,6 +695,7 @@
 	(hierarchical_label "OUT4"
 		(shape output)
 		(at 91.44 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -705,6 +707,7 @@
 	(hierarchical_label "OUT3"
 		(shape output)
 		(at 91.44 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -716,6 +719,7 @@
 	(hierarchical_label "OUT2"
 		(shape output)
 		(at 91.44 90.17 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -727,6 +731,7 @@
 	(hierarchical_label "IN2"
 		(shape input)
 		(at 184.15 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -738,6 +743,7 @@
 	(hierarchical_label "IN3"
 		(shape input)
 		(at 209.55 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -749,6 +755,7 @@
 	(hierarchical_label "OUT1"
 		(shape output)
 		(at 91.44 85.09 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -760,6 +767,7 @@
 	(hierarchical_label "IN4"
 		(shape input)
 		(at 184.15 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -848,7 +856,7 @@
 			)
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "R10")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -934,7 +942,7 @@
 			)
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "R12")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -950,7 +958,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3dde550b-c728-4fbd-86cc-84a6abfb4ee6")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR092"
 			(at 125.73 101.6 0)
 			(effects
 				(font
@@ -1000,7 +1008,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "#PWR090")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -1016,7 +1024,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3f0105dc-d143-46e0-97e8-3c3f0ee31676")
-		(property "Reference" "#PWR0141"
+		(property "Reference" "#PWR097"
 			(at 196.85 128.27 0)
 			(effects
 				(font
@@ -1066,7 +1074,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "#PWR0141")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -1082,7 +1090,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "54b47e04-0442-472d-9811-0033f41bf6e0")
-		(property "Reference" "U8"
+		(property "Reference" "U4"
 			(at 142.24 104.14 0)
 			(effects
 				(font
@@ -1161,7 +1169,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "U8")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -1177,7 +1185,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "551ee774-7f96-4ad0-9c91-e0dc8808560f")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR093"
 			(at 125.73 128.27 0)
 			(effects
 				(font
@@ -1227,7 +1235,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "#PWR091")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -1243,7 +1251,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6432558e-abe2-401a-8c6d-09dc1c516615")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR094"
 			(at 171.45 106.68 0)
 			(effects
 				(font
@@ -1293,7 +1301,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "#PWR092")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -1309,7 +1317,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a776ffc1-9589-4f0b-a440-e8d41acf38e5")
-		(property "Reference" "U7"
+		(property "Reference" "U3"
 			(at 142.24 77.47 0)
 			(effects
 				(font
@@ -1388,7 +1396,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "U7")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -1404,7 +1412,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c33b628f-9220-458d-83db-2f98ad20b9ce")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR096"
 			(at 196.85 101.6 0)
 			(effects
 				(font
@@ -1454,7 +1462,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "#PWR093")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -1470,7 +1478,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ec4d6a7a-8517-4a00-ae02-0630c7687efc")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR095"
 			(at 171.45 133.35 0)
 			(effects
 				(font
@@ -1520,7 +1528,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "#PWR0142")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -1606,7 +1614,7 @@
 			)
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "R13")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -1692,7 +1700,7 @@
 			)
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c"
-					(reference "R11")
+					(reference "R16")
 					(unit 1)
 				)
 			)
