@@ -27476,7 +27476,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0302a6c4-5ebc-4afe-b636-c397dc6b43be")
 		(property "Reference" "R67"
 			(at 142.875 122.555 0)
@@ -27486,7 +27486,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 125.603 0)
 			(effects
 				(font
@@ -28430,7 +28430,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0792dd18-2b67-4b62-a695-8339ba2db974")
 		(property "Reference" "R120"
 			(at 216.535 262.89 90)
@@ -28821,7 +28821,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0991d272-465b-44f8-a83d-04d46502ac0a")
 		(property "Reference" "R37"
 			(at 442.595 372.745 0)
@@ -28831,7 +28831,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 438.785 374.015 0)
 			(effects
 				(font
@@ -29499,7 +29499,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0da1b7c5-15f9-41dd-8fcb-9ea78a658b6d")
 		(property "Reference" "R110"
 			(at 142.875 150.495 0)
@@ -29509,7 +29509,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 153.543 0)
 			(effects
 				(font
@@ -29832,7 +29832,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0ffa3262-8508-4a04-b3ce-2e37b063acf6")
 		(property "Reference" "R117"
 			(at 208.915 262.89 90)
@@ -29914,7 +29914,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "101a2dff-c58a-4cac-8050-0a98792e9501")
 		(property "Reference" "R86"
 			(at 156.21 107.315 0)
@@ -29924,7 +29924,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 110.363 0)
 			(effects
 				(font
@@ -30868,7 +30868,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "151de19c-877f-451a-8925-19a7b7dd351e")
 		(property "Reference" "R66"
 			(at 142.875 244.475 0)
@@ -30878,7 +30878,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 247.523 0)
 			(effects
 				(font
@@ -31036,7 +31036,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "15d4bd71-72ab-469e-b01e-4d912f69db07")
 		(property "Reference" "R28"
 			(at 217.17 358.14 90)
@@ -31289,7 +31289,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1890cd6d-b2ab-425f-8e55-8513fd890ec1")
 		(property "Reference" "R73"
 			(at 156.21 97.155 0)
@@ -31299,7 +31299,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 100.203 0)
 			(effects
 				(font
@@ -31460,7 +31460,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "199a9938-8948-43ef-9e7c-227ffac159ff")
 		(property "Reference" "R61"
 			(at 142.875 221.615 0)
@@ -31470,7 +31470,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 224.663 0)
 			(effects
 				(font
@@ -32183,7 +32183,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2154ed4d-dfbc-454b-9852-8b66fdb7254d")
 		(property "Reference" "R81"
 			(at 534.035 233.045 0)
@@ -32265,7 +32265,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "21560519-dbd4-461c-ae32-f40f7cd1ddc6")
 		(property "Reference" "R68"
 			(at 146.05 160.655 0)
@@ -32275,7 +32275,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 141.605 163.703 0)
 			(effects
 				(font
@@ -32581,7 +32581,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "22e4d3af-8829-4bcc-b5fa-c06707f4b4b9")
 		(property "Reference" "R118"
 			(at 211.455 262.89 90)
@@ -33035,7 +33035,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "27ddd23f-e5ba-442d-9250-48d762e9a069")
 		(property "Reference" "R1"
 			(at 142.875 239.395 0)
@@ -33282,7 +33282,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "29b1e4e3-ceed-408f-a967-6c6a7984eebd")
 		(property "Reference" "R32"
 			(at 224.79 358.14 90)
@@ -34710,7 +34710,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "314d29c3-610e-4830-af32-942b51da29e9")
 		(property "Reference" "R87"
 			(at 156.21 328.295 0)
@@ -34720,7 +34720,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 329.565 0)
 			(effects
 				(font
@@ -34864,7 +34864,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "32206553-da2e-4f60-a58e-b1ea8f71500b")
 		(property "Reference" "R59"
 			(at 142.875 127.635 0)
@@ -34874,7 +34874,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 130.683 0)
 			(effects
 				(font
@@ -35709,7 +35709,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3b388247-0fe7-447a-85a6-599725f14aeb")
 		(property "Reference" "R121"
 			(at 517.525 132.715 0)
@@ -35719,7 +35719,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 512.445 135.763 0)
 			(effects
 				(font
@@ -37169,7 +37169,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "43594bca-1467-40ed-8873-2353ec517950")
 		(property "Reference" "R57"
 			(at 142.875 120.015 0)
@@ -37179,7 +37179,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 123.063 0)
 			(effects
 				(font
@@ -37480,7 +37480,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "4505f6ce-8d94-43d0-a688-36c269cd04c2")
 		(property "Reference" "R76"
 			(at 157.48 351.155 0)
@@ -37490,7 +37490,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 153.035 354.203 0)
 			(effects
 				(font
@@ -37719,7 +37719,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "47447c87-a87c-4ba7-bc37-3f0478b53983")
 		(property "Reference" "R109"
 			(at 142.875 147.955 0)
@@ -37729,7 +37729,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 151.003 0)
 			(effects
 				(font
@@ -40715,7 +40715,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5aa09322-067e-44b9-a37c-dbd39e2f7f08")
 		(property "Reference" "R119"
 			(at 213.995 262.89 90)
@@ -41511,7 +41511,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5d24036a-1517-4d1c-973a-f38dbff31a5e")
 		(property "Reference" "R44"
 			(at 450.215 165.735 0)
@@ -41593,7 +41593,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5d37f128-bbbf-4726-8f02-94f4c6b4946d")
 		(property "Reference" "R58"
 			(at 142.875 125.095 0)
@@ -41603,7 +41603,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 128.143 0)
 			(effects
 				(font
@@ -41747,7 +41747,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5d5c23e7-7d89-4ceb-aace-718088dac180")
 		(property "Reference" "R70"
 			(at 156.21 89.535 0)
@@ -41757,7 +41757,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 92.583 0)
 			(effects
 				(font
@@ -42129,7 +42129,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "60786dd0-021d-4136-8bc8-4458ad82229d")
 		(property "Reference" "R80"
 			(at 534.035 200.025 0)
@@ -46904,7 +46904,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7d442f39-55ca-4c98-bfb7-5cef773dfb1c")
 		(property "Reference" "R79"
 			(at 157.48 366.395 0)
@@ -46914,7 +46914,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 153.035 369.443 0)
 			(effects
 				(font
@@ -47392,7 +47392,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7f224d28-3196-4ce2-8d09-8ead31a642aa")
 		(property "Reference" "R62"
 			(at 142.875 231.775 0)
@@ -47402,7 +47402,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 234.823 0)
 			(effects
 				(font
@@ -47475,7 +47475,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7f7f5128-0030-4512-bba1-f9a6954a423f")
 		(property "Reference" "R63"
 			(at 142.875 226.695 0)
@@ -47485,7 +47485,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 229.743 0)
 			(effects
 				(font
@@ -47558,7 +47558,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7ffd9000-58d2-4c50-9185-a9b2d01fa149")
 		(property "Reference" "R74"
 			(at 156.21 99.695 0)
@@ -47568,7 +47568,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 102.743 0)
 			(effects
 				(font
@@ -49954,7 +49954,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8e88bc70-040e-4516-99b7-07fa7a289a35")
 		(property "Reference" "R88"
 			(at 235.585 210.82 0)
@@ -50036,7 +50036,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8ec0e661-ceb0-44ee-873f-34da38696efa")
 		(property "Reference" "R71"
 			(at 156.21 92.075 0)
@@ -50046,7 +50046,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 95.123 0)
 			(effects
 				(font
@@ -51692,7 +51692,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a1e95935-2b05-4335-b4ad-73c7b7baf9ad")
 		(property "Reference" "R41"
 			(at 442.595 403.225 0)
@@ -52869,7 +52869,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "aed05e5b-d2f0-48af-bba8-9ab8bd738b18")
 		(property "Reference" "R91"
 			(at 235.585 215.9 0)
@@ -52879,7 +52879,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 231.14 218.948 0)
 			(effects
 				(font
@@ -53035,7 +53035,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "af64368c-6abf-4e98-af3a-1d63c9c91d35")
 		(property "Reference" "R85"
 			(at 156.21 104.775 0)
@@ -53045,7 +53045,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 107.823 0)
 			(effects
 				(font
@@ -53343,7 +53343,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b21effb1-503b-417e-83ff-d9791f0efe51")
 		(property "Reference" "R55"
 			(at 450.215 168.275 0)
@@ -53935,7 +53935,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b69cde45-cd5d-418f-89d3-4aec164d67b6")
 		(property "Reference" "R78"
 			(at 157.48 361.315 0)
@@ -53945,7 +53945,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 153.035 364.363 0)
 			(effects
 				(font
@@ -54411,7 +54411,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b829e117-a346-48e1-a4c5-3d83a9adfa4c")
 		(property "Reference" "R5"
 			(at 213.36 358.14 90)
@@ -54493,7 +54493,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b872c43d-c61b-40b0-94b3-18597e96830f")
 		(property "Reference" "R69"
 			(at 146.05 165.735 0)
@@ -54503,7 +54503,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 141.605 168.783 0)
 			(effects
 				(font
@@ -55180,7 +55180,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c24e5883-9d3e-4bd9-ba20-29dcae52a995")
 		(property "Reference" "R30"
 			(at 220.98 358.14 90)
@@ -55428,7 +55428,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c3764b6c-5258-4808-9e5a-ed2539442d9f")
 		(property "Reference" "R82"
 			(at 534.035 235.585 0)
@@ -57114,7 +57114,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cf3be123-63cf-4b44-bd8a-73a936f79b9f")
 		(property "Reference" "R112"
 			(at 142.875 201.295 0)
@@ -57124,7 +57124,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 204.343 0)
 			(effects
 				(font
@@ -57648,7 +57648,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d1170cb1-0024-4094-9958-5d3f50eb2921")
 		(property "Reference" "R122"
 			(at 517.525 135.255 0)
@@ -58236,7 +58236,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d34d1a16-2950-4e7a-9c8a-737eb401685e")
 		(property "Reference" "R84"
 			(at 156.21 102.235 0)
@@ -58246,7 +58246,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 105.283 0)
 			(effects
 				(font
@@ -60123,7 +60123,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "df07f34e-5848-460e-8c62-fe74c3121181")
 		(property "Reference" "R89"
 			(at 235.585 213.36 0)
@@ -60133,7 +60133,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 231.14 214.63 0)
 			(effects
 				(font
@@ -60596,7 +60596,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e5f28498-3446-40de-9fab-d8fcfda6419c")
 		(property "Reference" "R65"
 			(at 142.875 241.935 0)
@@ -60606,7 +60606,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 244.983 0)
 			(effects
 				(font
@@ -61219,7 +61219,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e998cfa1-d4ca-4928-ae92-dd869082fe6a")
 		(property "Reference" "R75"
 			(at 156.21 333.375 0)
@@ -61229,7 +61229,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 336.423 0)
 			(effects
 				(font
@@ -61606,7 +61606,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ec8e7fa8-4cb5-493c-8c2d-339362bcd6ef")
 		(property "Reference" "R72"
 			(at 156.21 94.615 0)
@@ -61616,7 +61616,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 151.765 97.663 0)
 			(effects
 				(font
@@ -61927,7 +61927,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ed8e98a5-a1ae-4ac5-8124-ef46c338edda")
 		(property "Reference" "R83"
 			(at 534.035 250.825 0)
@@ -62458,7 +62458,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f1767977-5633-4671-89b2-6b8db564b703")
 		(property "Reference" "R77"
 			(at 157.48 356.235 0)
@@ -62468,7 +62468,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 153.035 359.283 0)
 			(effects
 				(font
@@ -65506,7 +65506,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "feb0fff7-0fc7-49aa-9796-8aecd33edfd2")
 		(property "Reference" "R111"
 			(at 142.875 198.755 0)
@@ -65516,7 +65516,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 201.803 0)
 			(effects
 				(font
@@ -65589,7 +65589,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ff5217ca-f1c4-4e1e-bb54-a13a91357b3c")
 		(property "Reference" "R64"
 			(at 142.875 234.315 0)
@@ -65599,7 +65599,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper-Pad-Pad"
+		(property "Value" "DNP"
 			(at 137.795 237.363 0)
 			(effects
 				(font
